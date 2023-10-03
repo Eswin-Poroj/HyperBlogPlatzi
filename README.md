@@ -11,5 +11,6 @@ Este es un curso que estoy realizando en platzi, para aprender sobre como funcio
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Fredy
+* Creado por Team Platzi
 
 Y como un amabre recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
